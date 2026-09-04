@@ -1,0 +1,6 @@
+{
+  "name": "UrbanStep Footwear",
+  "description": "Showcase website for UrbanStep Footwear featuring Men, Women, and Kids collections, real-time catalogue search, WhatsApp enquiries, store directions, and opening hours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
